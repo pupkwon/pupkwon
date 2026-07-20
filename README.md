@@ -1,4 +1,3 @@
-ㅤㅤㅤㅤㅤㅤ![](https://komarev.com/ghpvc/?user=pupkwon&color=D0C9B7&label=ㅤʚɞ``ㅤagentsㅤ)
-
+![](https://komarev.com/ghpvc/?username=pupkwon&color=D1D5DB&label=ㅤʚɞ``ㅤagentsㅤㅤ )
 
 <img width="600" height="400" alt="Image" src="https://github.com/user-attachments/assets/18a03c0f-eec0-4a44-b637-2fee4e9841e8" />
